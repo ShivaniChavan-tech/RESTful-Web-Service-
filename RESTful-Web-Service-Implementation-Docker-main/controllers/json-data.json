@@ -1,0 +1,54 @@
+[
+    {
+        "_id": "61b272c030d5372054c64b50",
+        "orders": [
+            "Protien bar",
+            "Xbox",
+            "C"
+        ],
+        "name": "Genius Machado",
+        "uid": "123456788",
+        "address": "Harrison",
+        "phone": "5519985730",
+        "email": "genius@gmail.com"
+    },
+    {
+        "_id": "61b272c030d5372054c64b51",
+        "orders": [
+            "Water",
+            "PS5",
+            "Icecream"
+        ],
+        "name": "Jamy",
+        "uid": "123456788",
+        "address": "Jersey",
+        "phone": "55199857356",
+        "email": "jamy@gmail.com"
+    },
+    {
+        "_id": "61b272c030d5372054c64b52",
+        "orders": [
+            "Water",
+            "PS5",
+            "Icecream"
+        ],
+        "name": "Vivian",
+        "uid": "123456788",
+        "address": "Jersey",
+        "phone": "55199857984",
+        "email": "vivian@gmail.com"
+    },
+    {
+        "_id": "61b272c030d5372054c64b53",
+        "orders": [
+            "Beer",
+            "Food",
+            "CBD"
+        ],
+        "name": "Fang",
+        "uid": "123456788",
+        "address": "Harrison",
+        "phone": "5519985730",
+        "email": "fang@gmail.com"
+    }
+]
